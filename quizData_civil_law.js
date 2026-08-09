@@ -1,5 +1,6 @@
-const quizData = {
-  "민법": [
+// 파일명: quizData_civil_law.js
+
+window.quizData["민법"] = [
     {
       id: "min_2020_1",
       year: 2020,
@@ -3920,5 +3921,4 @@ const quizData = {
       ],
       answer: 3,
     },
-  ],
-};
+];

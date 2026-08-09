@@ -1,5 +1,6 @@
-const quizData = {
-  "감정평가관계법규": [
+// 파일명: quizData_valuation_law.js
+
+window.quizData["감정평가관계법규"] = [
     {
       id: "law_2020_1",
       year: 2020,
@@ -3920,5 +3921,4 @@ const quizData = {
       ],
       answer: 3,
     },
-  ],
-};
+];
